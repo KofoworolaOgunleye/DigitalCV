@@ -26,6 +26,11 @@ body {
   text-decoration: none;
 }
 
+a:hover{
+  color:#ee5a4e;
+  font-size: 1.1rem;
+}
+
 .anchor {
   display: block;
   position: relative;
